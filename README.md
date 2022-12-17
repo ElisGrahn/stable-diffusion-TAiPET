@@ -7,7 +7,8 @@ The command we used to initiate training: python main.py -t --base configs/stabl
 
 Example images:
 
-![test5](https://user-images.githubusercontent.com/75640839/208248504-7fb53752-8071-493c-acfe-f97725e4b7fc.png)![test7](https://user-images.githubusercontent.com/75640839/208248571-8b55718b-7599-46c3-9288-940e5c687011.png)
+![test5](https://user-images.githubusercontent.com/75640839/208248504-7fb53752-8071-493c-acfe-f97725e4b7fc.png)
+![test7](https://user-images.githubusercontent.com/75640839/208248571-8b55718b-7599-46c3-9288-940e5c687011.png)
 ![test8](https://user-images.githubusercontent.com/75640839/208248575-9cdfb9ba-e387-42da-a52f-d8ef78f8a9d1.png)
 ![test3](https://user-images.githubusercontent.com/75640839/208248582-6a51f096-a0c1-4c05-bf79-fa3c6baee237.png)
 ![test6](https://user-images.githubusercontent.com/75640839/208248584-df951db4-f9e6-40eb-94b4-d0da115774cd.png)
